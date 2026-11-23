@@ -93,31 +93,35 @@ Urza's Saga, Academy Ruins, Spire of Industry and Otawara as utility.
 but the copy is legendary, so you'd have to sacrifice one of them.
 
 ## Second pass after Gemini's review (2026-11-23)
-See `notes/gemini-review.md` for the full argument. The user agreed to Claude's swaps except Cyberman Patrol (see below),
-so eight changed. Two of my reasons above (Unwinding Clock, Ultron) were wrong; Krang's
-"castable turn 5–6" was overstated.
+See `notes/gemini-review.md` for Gemini's arguments. Claude first applied most of them, judging
+cards on raw efficiency. The user then set out the deck's four jobs (now in `AGENTS.md`):
+spread abilities like slivers, make artifact creature tokens, buff them, and get advantage
+from artifacts. Judged by those jobs, several of Gemini's cuts were wrong, so the final
+result is smaller.
 
+**Changed:**
 | Out | In | Why |
 |-----|----|-----|
-| The Immortal Sun (1/3) | Tezzeret, Master of the Bridge (NEW) | Same 6 mana. Gives creature spells affinity for artifacts, drains each opponent for your artifact count (a non-combat win), and recurs artifacts. |
-| Unwinding Clock (1/2/3) | Baleful Strix (NEW) | Reactor mana only pays for artifacts, and the deck has almost nothing to cast on opponents' turns. Strix draws a card, flies, has deathtouch, and is an artifact creature. |
-| Krang, Utrom Warlord (2/3) | Cyberdrive Awakener (NEW) | Krang is castable by turn 5 only ~30% of the time. Awakener is cheaper, gives artifact creatures flying and makes the rocks attackers. |
-| The Cyber-Controller (1/2) | Kappa Cannoneer (NEW) | At X=0 Cyber-Controller is all colored mana, so artifact mana can't pay for it. Cannoneer has improvise, ward 4, and grows and goes unblockable when artifacts enter. |
-| Thopter Spy Network (2/3) | Bident of Thassa (NEW) | Spy Network draws one card per combat; Bident draws per creature that connects, and it's an artifact. |
-| Cryptothrall (2/3) | Galadriel's Dismissal (NEW) | Hexproof doesn't stop wipes. Kicked Dismissal phases out your creatures in response to one (not rocks or lands). |
-| Ultron, Artificial Malevolence (1/2/3) | Phyrexian Metamorph (NEW) | Ultron had the same legend-rule problem I cut Metamorph for, and its copied rocks are summoning sick. Metamorph is cheaper and copies anything. |
-| Thirst for Knowledge (1) | Thought Monitor (NEW) | Usually costs {U}, draws two and leaves a 2/2 flying artifact creature. |
+| Unwinding Clock (1/2/3) | Galadriel's Dismissal (NEW) | Reactor mana only pays for artifacts, and the deck has almost nothing to cast on opponents' turns. Kicked Dismissal phases out your creatures in response to a wipe (not rocks or lands), covering what Cryptothrall's hexproof can't. |
+| Ultron, Artificial Malevolence (1/2/3) | Phyrexian Metamorph (NEW) | Ultron had the same legend-rule problem I cut Metamorph for, and its copied rocks are summoning sick. Metamorph is cheaper and copies anything, including tokens makers and lords. |
+| Thirst for Knowledge (1) | Thought Monitor (NEW) | Job 4: gets cheaper with every artifact, draws two, leaves a 2/2 flying artifact creature. |
+| The Cyber-Controller (1/2) | Tezzeret, Master of the Bridge (NEW) | User: the +1/+1 is nice, the token side is mediocre. Tezzeret is job 4: creature spells get affinity for artifacts (Krang gets much cheaper), and it drains each opponent for your artifact count. |
 
-**Cyberman Patrol stays (user's call).** Gemini's "afflict rarely matters" was wrong for a go-wide
-deck: afflict 3 triggers on every blocked attacker, so with a wide board each opponent takes
-the combat damage or loses 3 per creature they block, and menace makes blocking cost two
-creatures. It's 2 mana and was in borg2 and borg3. Tezzeret the Seeker, which Claude picked
-without the user, was cut to make room.
+**Kept after all (Gemini wanted them out):**
+- **Cyberman Patrol** (job 1): afflict 3 triggers on every blocked attacker, so with a wide
+  board each opponent takes the combat damage or loses 3 per creature they block.
+- **Cryptothrall** (job 1): team hexproof.
+- **Krang, Utrom Warlord** (job 1): team flying, trample, indestructible, haste. Still
+  expensive; Tezzeret makes it cheaper.
+- **Thopter Spy Network** (jobs 2 and 4): thopter tokens and card draw.
+- **The Immortal Sun** (jobs 3 and 4): +1/+1, an extra card each turn, spells cost 1 less.
 
-**The Cyber-Controller stays cut (user agrees):** the +1/+1 is nice, the token side is mediocre.
+**Tried and removed:** Baleful Strix (efficient, but does none of the four jobs), Cyberdrive
+Awakener (overlaps Krang), Bident of Thassa (overlaps Thopter Spy Network), Kappa Cannoneer
+(a strong lone threat, but doesn't spread abilities or make tokens), Tezzeret the Seeker.
 
 Not decided yet: Battle of Wolf 359 vs a wipe that works from behind, Salvation Engine vs
 Simulacrum Synthesizer, the tapped lands, Urza's Saga targets, and graveyard hate.
 
-**Not yet verified on Scryfall** — the session that made these swaps had no access to it.
-Check the eight new cards' text, legality and color identity before the next game.
+**Not yet verified on Scryfall:** Galadriel's Dismissal, Phyrexian Metamorph, Thought Monitor
+and Tezzeret, Master of the Bridge. Check text, legality and color identity before the next game.

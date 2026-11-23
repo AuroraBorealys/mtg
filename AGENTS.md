@@ -13,6 +13,17 @@ how to work here; `CLAUDE.md` and `GEMINI.md` just point to it.
 - Budget: No limit
 - Power level: High-power (strong at a typical game-store Commander night; not
   necessarily full cEDH)
+- The deck's four jobs. Every card should do at least one of them:
+  1. **Spread abilities like slivers**: lords that give the whole team keywords
+     (flying, menace, hexproof, double strike, afflict, ...).
+  2. **Make artifact creature tokens**, so there are more bodies to carry those abilities.
+  3. **Buff them**: anthems and +1/+1 counters.
+  4. **Get advantage from your artifacts**: cards, mana or cost reductions that scale
+     with how many artifacts or artifact creatures you have.
+  Interaction, protection from wipes and mana are the support around those jobs.
+- "High power" means theme first: pick the strongest card that does one of the four
+  jobs. A generically efficient card that does none of them (e.g. Baleful Strix) doesn't
+  make the deck just for being efficient.
 - Goal: win through combat with a wide board of pumped artifact creatures.
   Every attack with the Queen assimilates an opponent's creature, adding to
   the army. Prioritize cheap artifact creatures, ways to protect the board and

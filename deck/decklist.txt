@@ -1,7 +1,7 @@
 // Commander
 1 The Borg Queen
 
-// Artifact creatures: cheap army and mana (14)
+// Artifact creatures: cheap army and mana (13)
 1 Esper Sentinel
 1 Ornithopter of Paradise
 1 Command Subadjunct
@@ -10,16 +10,16 @@
 1 Extraction Integrant
 1 Steel Overseer
 1 Cyberman Patrol
-1 Baleful Strix
 1 Foundry Inspector
 1 Iron Spider, Stark Upgrade
 1 Phyrexian Metamorph
 1 Thought Monitor
 1 Ambulatory Reactor
 
-// Artifact creatures: lords and team-wide abilities (8)
+// Artifact creatures: lords and team-wide abilities (9)
 1 Master of Etherium
 1 Skorpekh Lord
+1 Cryptothrall
 1 Co-Option Adjutant
 1 Primary Unimatrix Adjunct
 1 Locutus of Borg
@@ -27,12 +27,11 @@
 1 Iron Man, Bleeding Edge
 1 One, Borg Evolved
 
-// Artifact creatures: big threats (5)
+// Artifact creatures: big threats (4)
 1 Bronze Guardian
 1 Karn, Legacy Reforged
 1 Cybermen Squadron
-1 Cyberdrive Awakener
-1 Kappa Cannoneer
+1 Krang, Utrom Warlord
 
 // Other creatures (4)
 1 Sai, Master Thopterist
@@ -52,14 +51,15 @@
 1 Talisman of Hierarchy
 1 Talisman of Progress
 
-// Anthems, engines and card draw (9)
+// Anthems, engines and card draw (10)
 1 Tempered Steel
 1 Salvation Engine
 1 Conquest Mission
-1 Bident of Thassa
+1 Thopter Spy Network
 1 Rhystic Study
 1 Smothering Tithe
 1 The One Ring
+1 The Immortal Sun
 1 Thoughtcast
 1 Sea Gate Restoration
 
