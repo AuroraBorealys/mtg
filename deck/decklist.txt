@@ -1,117 +1,125 @@
 // Commander
 1 The Borg Queen
 
-// Artifact creatures (22)
-1 Ambulatory Reactor
-1 Bronze Guardian
-1 Co-Option Adjutant
-1 Command Subadjunct
-1 Cryptothrall
-1 Crystalline Entity
-1 Cyberman Patrol
-1 Cybermen Squadron
+// Artifact creatures: cheap army and cost reducers (10)
 1 Esper Sentinel
+1 Ornithopter of Paradise
+1 Command Subadjunct
+1 Locutus, the One Who Speaks
 1 Etherium Sculptor
 1 Extraction Integrant
+1 Steel Overseer
+1 Antagonist Incorporator
 1 Foundry Inspector
-1 Illustrious Wanderglyph
-1 Iron Man, Bleeding Edge
-1 Karn, Legacy Reforged
-1 Krang, Utrom Warlord
-1 Locutus of Borg
+1 Ambulatory Reactor
+
+// Artifact creatures: lords and team-wide abilities (9)
+1 Jurati, Cordial Queen
 1 Master of Etherium
-1 One, Borg Evolved
-1 Primary Unimatrix Adjunct
 1 Skorpekh Lord
-1 Ultron, Artificial Malevolence
+1 Cryptothrall
+1 Co-Option Adjutant
+1 Primary Unimatrix Adjunct
+1 Locutus of Borg
+1 Hugh, First of Many
+1 One, Borg Evolved
 
-// Other creatures (6)
-1 Losheel, Clockwork Scholar
-1 Padeem, Consul of Innovation
-1 Sai, Master Thopterist
-1 Urza, Chief Artificer
+// Artifact creatures: utility and big threats (6)
+1 Walking Ballista
+1 Phyrexian Metamorph
+1 Bronze Guardian
+1 Karn, Legacy Reforged
+1 Assimilation Assessor
+1 Crystalline Entity
+
+// Other creatures (3)
 1 Urza, Lord High Artificer
-1 Witch Enchanter
+1 Losheel, Clockwork Scholar
+1 Urza, Chief Artificer
 
-// Spacecraft and vehicles (7)
-1 Borg Cube
-1 Borg Scout Sphere
-1 Class-4 Tactical Cube
-1 Salvation Engine
-1 The Seriema
-1 Type-03 Borg Vessel
-1 Uthros Research Craft
-
-// Other artifacts (12)
-1 Arcane Signet
-1 Forsaken Monument
-1 Simulacrum Synthesizer
+// Mana rocks (8)
 1 Sol Ring
+1 Mana Vault
+1 Mox Opal
+1 Chrome Mox
+1 Arcane Signet
 1 Talisman of Dominance
 1 Talisman of Hierarchy
 1 Talisman of Progress
-1 The Immortal Sun
-1 The Mind Stone
-1 The Soul Stone
-1 Thought Vessel
-1 Unwinding Clock
 
-// Enchantments (4)
-1 Fateful Discovery
-1 Rhystic Study
-1 Smothering Tithe
+// Anthems, engines and card draw (10)
+1 Tempered Steel
+1 Skullclamp
+1 Conquest Mission
 1 Thopter Spy Network
-
-// Instants and sorceries (16)
-1 Anguished Unmaking
-1 Battle of Wolf 359
-1 Clever Concealment
-1 Cyclonic Rift
-1 Dispatch
-1 Fell the Profane
-1 Force of Negation
-1 Generous Gift
-1 Mana Drain
-1 One with the Machine
+1 Rhystic Study
+1 The One Ring
+1 The Immortal Sun
+1 Class-4 Tactical Cube
+1 Thoughtcast
 1 Sea Gate Restoration
-1 Sink into Stupor
-1 Swan Song
-1 Teferi's Protection
-1 Traverse Eternity
-1 Void Rend
 
-// Lands (32)
-1 Academy Ruins
-1 Adagia, Windswept Bastion
-1 Adarkar Wastes
-1 Ancient Den
-1 Bleachbone Verge
-1 Caves of Koilos
+// Tutors (3)
+1 Enlightened Tutor
+1 Demonic Tutor
+1 Vampiric Tutor
+
+// Removal and counters (13)
+1 Swords to Plowshares
+1 Dispatch
+1 Anguished Unmaking
+1 Deliver from Chaos
+1 Deadly Rollick
+1 Fell the Profane
+1 Cyclonic Rift
+1 Sink into Stupor
+1 Fierce Guardianship
+1 Mana Drain
+1 Counterspell
+1 Force of Negation
+1 Swan Song
+
+// Board wipe (1)
+1 Battle of Wolf 359
+
+// Protection (5)
+1 Lightning Greaves
+1 Teferi's Protection
+1 Emergency Regeneration
+1 Borg Incursion
+1 Clever Concealment
+
+// Lands (31)
 1 Command Tower
-1 Deserted Beach
+1 Urza's Saga
+1 Academy Ruins
+1 Spire of Industry
+1 Otawara, Soaring City
+1 Seat of the Synod
+1 Ancient Den
+1 Vault of Whispers
+1 Tundra
+1 Underground Sea
+1 Scrubland
+1 Hallowed Fountain
+1 Watery Grave
+1 Godless Shrine
+1 Raffine's Tower
 1 Flooded Strand
+1 Polluted Delta
+1 Marsh Flats
+1 Glacial Fortress
+1 Drowned Catacomb
+1 Isolated Chapel
 1 Floodfarm Verge
 1 Gloomlake Verge
-1 Godless Shrine
-1 Goldmire Bridge
-1 Hallowed Fountain
-1 Inventors' Fair
-1 Island
-1 Marsh Flats
-1 Mistvault Bridge
-1 Monumental Henge
-1 Plains
-1 Polluted Delta
-1 Razortide Bridge
-1 Seat of the Synod
-1 Shattered Sanctum
+1 Bleachbone Verge
+1 Deserted Beach
 1 Shipwreck Marsh
-1 Spire of Industry
-1 Susur Secundi, Void Altar
+1 Shattered Sanctum
+1 Morphic Pool
+1 Island
+1 Plains
 1 Swamp
-1 Underground River
-1 Uthros, Titanic Godcore
-1 Vault of Whispers
-1 Watery Grave
 
 // Sideboard

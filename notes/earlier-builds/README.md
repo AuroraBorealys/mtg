@@ -10,4 +10,4 @@ Three Borg Queen lists made before this repo existed, kept for reference.
 | `borg3.txt` | 101 (1 over) | Most refined. Fetch lands, Mana Drain, Force of Negation, Cyclonic Rift, Clever Concealment, Fateful Discovery, card draw off big mana values |
 
 `Central Plexus Core` in borg1/borg3 is the Star Trek printing of **The Immortal Sun**;
-the real list uses the Scryfall name.
+the real list uses the Scryfall name. See `notes/deck-plan.md` for how the real list was built.
