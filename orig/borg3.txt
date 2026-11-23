@@ -1,0 +1,102 @@
+1 Academy Ruins
+1 Adagia, Windswept Bastion
+1 Adarkar Wastes
+1 Ambulatory Reactor
+1 Ancient Den
+1 Anguished Unmaking
+1 Arcane Signet
+1 Battle of Wolf 359
+1 Biotransference
+1 Bleachbone Verge
+1 Borg Cube
+1 Borg Scout Sphere
+1 Bronze Guardian
+1 Caves of Koilos
+1 Central Plexus Core
+1 Class-4 Tactical Cube
+1 Clever Concealment
+1 Co-Option Adjutant
+1 Command Subadjunct
+1 Command Tower
+1 Cryptothrall
+1 Crystalline Entity
+1 Cyberman Patrol
+1 Cybermen Squadron
+1 Cyclonic Rift
+1 Deserted Beach
+1 Dispatch
+1 Esper Sentinel
+1 Etherium Sculptor
+1 Extraction Integrant
+1 Fateful Discovery
+1 Fell the Profane
+1 Flooded Strand
+1 Floodfarm Verge
+1 Force of Negation
+1 Forsaken Monument
+1 Foundry Inspector
+1 Generous Gift
+1 Gloomlake Verge
+1 Godless Shrine
+1 Goldmire Bridge
+1 Hallowed Fountain
+1 Illustrious Wanderglyph
+1 Inventors' Fair
+1 Iron Man, Bleeding Edge
+1 Island
+1 Karn, Legacy Reforged
+1 Krang, Utrom Warlord
+1 Locutus of Borg
+1 Losheel, Clockwork Scholar
+1 Mana Drain
+1 Marsh Flats
+1 Master of Etherium
+1 Mistvault Bridge
+1 Monumental Henge
+1 One with the Machine
+1 One, Borg Evolved
+1 Padeem, Consul of Innovation
+1 Plains
+1 Polluted Delta
+1 Primary Unimatrix Adjunct
+1 Razortide Bridge
+1 Rhystic Study
+1 Sai, Master Thopterist
+1 Salvation Engine
+1 Sea Gate Restoration
+1 Seat of the Synod
+1 Shattered Sanctum
+1 Shipwreck Marsh
+1 Simulacrum Synthesizer
+1 Sink into Stupor
+1 Skorpekh Lord
+1 Smothering Tithe
+1 Sol Ring
+1 Spire of Industry
+1 Susur Secundi, Void Altar
+1 Swamp
+1 Swan Song
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Teferi's Protection
+1 The Mind Stone
+1 The Seriema
+1 The Soul Stone
+1 Thopter Spy Network
+1 Thought Vessel
+1 Traverse Eternity
+1 Type-03 Borg Vessel
+1 Ultron, Artificial Malevolence
+1 Underground River
+1 Unwinding Clock
+1 Urza, Chief Artificer
+1 Urza, Lord High Artificer
+1 Uthros Research Craft
+1 Uthros, Titanic Godcore
+1 Vault of Whispers
+1 Void Rend
+1 Watery Grave
+1 Witch Enchanter
+
+1 The Borg Queen

@@ -5,10 +5,19 @@ This repo holds one Magic: The Gathering deck. Several assistants work on it
 how to work here; `CLAUDE.md` and `GEMINI.md` just point to it.
 
 ## The deck
-- Format: TBD (fill in: Commander, Standard, Modern, Pauper, ...)
-- Commander / archetype: TBD
-- Budget: TBD
-- Goal: TBD (what the deck should do, how competitive it should be)
+- Format: Commander (100 cards including the commander, singleton except basic lands, color identity rules apply)
+- Commander: The Borg Queen ({4}{W}{U}{B}, Esper: white/blue/black). Every
+  card must fit inside W/U/B color identity.
+- Archetype: artifact creature "tribal", played like slivers: go wide with
+  many artifact creatures that the Queen's +2/+2 anthem turns into a big army
+- Budget: No limit
+- Power level: High-power (strong at a typical game-store Commander night; not
+  necessarily full cEDH)
+- Goal: win through combat with a wide board of pumped artifact creatures.
+  Every attack with the Queen assimilates an opponent's creature, adding to
+  the army. Prioritize cheap artifact creatures, ways to protect the board and
+  the commander, more anthems and artifact payoffs, and enough card draw and
+  interaction to keep up at a high-power table.
 
 ## Files
 - `deck/decklist.txt` – the decklist. This is the only canonical list.

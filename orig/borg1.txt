@@ -1,0 +1,94 @@
+1 Academy Ruins
+1 Ambulatory Reactor
+1 Ancient Den
+1 Anguished Unmaking
+1 Arcane Signet
+1 Battle of Wolf 359
+1 Bitter Triumph
+1 Borg Cube
+1 Borg Scout Sphere
+1 Bronze Guardian
+1 Central Plexus Core
+1 Co-Option Adjutant
+1 Collation Trimatrix
+1 Collective Override
+1 Command Subadjunct
+1 Command Tower
+1 Crystalline Entity
+1 Cybermen Squadron
+1 Disallow
+1 Dispatch
+1 Door of Destinies
+1 Drowned Catacomb
+1 Eclipsed Steppe
+1 Emergency Regeneration
+1 Esper Sentinel
+1 Etherium Sculptor
+1 Exotic Orchard
+1 Extraction Integrant
+1 Fellwar Stone
+1 Foundry Inspector
+1 Glacial Fortress
+1 Godless Shrine
+1 Hugh, First of Many
+1 Illustrious Wanderglyph
+1 Inventors' Fair
+1 Iron Man, Bleeding Edge
+1 Iron Spider, Stark Upgrade
+4 Island
+1 Isolated Chapel
+1 Join the Collective
+1 Karn, Legacy Reforged
+1 Liquimetal Torque
+1 Locutus of Borg
+1 Losheel, Clockwork Scholar
+1 Master of Etherium
+1 Maturation Chamber
+1 Mithril Coat
+1 Morphic Pool
+1 One, Borg Evolved
+1 Organic Extinction
+1 Path of Ancestry
+4 Plains
+1 Prairie Stream
+1 Primary Unimatrix Adjunct
+1 Queen's Diamond
+1 Reliquary Tower
+1 Rhystic Study
+1 Roaming Throne
+1 Sea Gate Restoration
+1 Seat of the Synod
+1 Shineshadow Snarl
+1 Shore Leave Planet
+1 Simulacrum Synthesizer
+1 Sink into Stupor
+1 Skorpekh Lord
+1 Skycloud Expanse
+1 Sol Ring
+1 Spire of Industry
+1 Sunken Hollow
+1 Supplementation Node
+3 Swamp
+1 Swiftfoot Boots
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Teferi's Protection
+1 Tezzeret, Master of the Bridge
+1 The Cyber-Controller
+1 Thirst for Knowledge
+1 Thopter Spy Network
+1 Thought Vessel
+1 Thoughtcast
+1 Toxic Deluge
+1 Transwarp Hub
+1 Ultron, Artificial Malevolence
+1 Umbral Expanse
+1 Underground River
+1 Unwinding Clock
+1 Urza, Chief Artificer
+1 Vault of Whispers
+1 Waterlogged Teachings
+1 Watery Grave
+
+1 The Borg Queen
