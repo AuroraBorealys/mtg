@@ -128,5 +128,14 @@ Awakener (overlaps Krang), Bident of Thassa (overlaps Thopter Spy Network), Kapp
 Not decided yet: Battle of Wolf 359 vs a wipe that works from behind, Salvation Engine vs
 Simulacrum Synthesizer, Urza's Saga targets, and graveyard hate.
 
+**Graveyard hate: parked for later (user's call).** Target is 1–2 pieces. Candidates so far:
+- Assimilation Assessor ({4}{B}, 5/5 artifact creature): exiles one opponent's graveyard and
+  steals creatures from it on attack. Doesn't need the Queen, so the first-pass cut was wrong.
+  Slow, sorcery-speed hate.
+- Soul-Guide Lantern or Nihil Spellbomb: cheap artifact answers to fast graveyard combo; Urza's Saga can fetch them.
+- Borg Queen, Perfection Manifest ({4}{B}{B}): really an anthem (+2/+0 to artifact creatures),
+  not graveyard hate. Competes with Salvation Engine / The Immortal Sun.
+- Death Is Irrelevant: no. 8 mana, and Krang already gives indestructible.
+
 **Not yet verified on Scryfall:** Galadriel's Dismissal, Phyrexian Metamorph, Thought Monitor,
 Tezzeret, Master of the Bridge and Vault of Champions. Check text, legality and color identity before the next game.
