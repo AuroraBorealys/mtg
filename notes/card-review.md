@@ -93,15 +93,14 @@ Urza's Saga, Academy Ruins, Spire of Industry and Otawara as utility.
 but the copy is legendary, so you'd have to sacrifice one of them.
 
 ## Second pass after Gemini's review (2026-11-23)
-See `notes/gemini-review.md` for the full argument. The user agreed to the nine swaps
-Claude agreed with. Two of my reasons above (Unwinding Clock, Ultron) were wrong; Krang's
+See `notes/gemini-review.md` for the full argument. The user agreed to Claude's swaps except Cyberman Patrol (see below),
+so eight changed. Two of my reasons above (Unwinding Clock, Ultron) were wrong; Krang's
 "castable turn 5–6" was overstated.
 
 | Out | In | Why |
 |-----|----|-----|
 | The Immortal Sun (1/3) | Tezzeret, Master of the Bridge (NEW) | Same 6 mana. Gives creature spells affinity for artifacts, drains each opponent for your artifact count (a non-combat win), and recurs artifacts. |
-| Cyberman Patrol (2/3) | Baleful Strix (NEW) | Afflict rarely matters next to menace and flying. Strix draws a card, flies, has deathtouch, and is an artifact creature. |
-| Unwinding Clock (1/2/3) | Tezzeret the Seeker (NEW) | Reactor mana only pays for artifacts, and the deck has almost nothing to cast on opponents' turns. Tezzeret tutors a cheap artifact or turns the board into 5/5s to finish. Slot is open to other ideas. |
+| Unwinding Clock (1/2/3) | Baleful Strix (NEW) | Reactor mana only pays for artifacts, and the deck has almost nothing to cast on opponents' turns. Strix draws a card, flies, has deathtouch, and is an artifact creature. |
 | Krang, Utrom Warlord (2/3) | Cyberdrive Awakener (NEW) | Krang is castable by turn 5 only ~30% of the time. Awakener is cheaper, gives artifact creatures flying and makes the rocks attackers. |
 | The Cyber-Controller (1/2) | Kappa Cannoneer (NEW) | At X=0 Cyber-Controller is all colored mana, so artifact mana can't pay for it. Cannoneer has improvise, ward 4, and grows and goes unblockable when artifacts enter. |
 | Thopter Spy Network (2/3) | Bident of Thassa (NEW) | Spy Network draws one card per combat; Bident draws per creature that connects, and it's an artifact. |
@@ -109,8 +108,16 @@ Claude agreed with. Two of my reasons above (Unwinding Clock, Ultron) were wrong
 | Ultron, Artificial Malevolence (1/2/3) | Phyrexian Metamorph (NEW) | Ultron had the same legend-rule problem I cut Metamorph for, and its copied rocks are summoning sick. Metamorph is cheaper and copies anything. |
 | Thirst for Knowledge (1) | Thought Monitor (NEW) | Usually costs {U}, draws two and leaves a 2/2 flying artifact creature. |
 
+**Cyberman Patrol stays (user's call).** Gemini's "afflict rarely matters" was wrong for a go-wide
+deck: afflict 3 triggers on every blocked attacker, so with a wide board each opponent takes
+the combat damage or loses 3 per creature they block, and menace makes blocking cost two
+creatures. It's 2 mana and was in borg2 and borg3. Tezzeret the Seeker, which Claude picked
+without the user, was cut to make room.
+
+**The Cyber-Controller stays cut (user agrees):** the +1/+1 is nice, the token side is mediocre.
+
 Not decided yet: Battle of Wolf 359 vs a wipe that works from behind, Salvation Engine vs
 Simulacrum Synthesizer, the tapped lands, Urza's Saga targets, and graveyard hate.
 
 **Not yet verified on Scryfall** — the session that made these swaps had no access to it.
-Check the nine new cards' text, legality and color identity before the next game.
+Check the eight new cards' text, legality and color identity before the next game.

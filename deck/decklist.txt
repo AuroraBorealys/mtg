@@ -1,7 +1,7 @@
 // Commander
 1 The Borg Queen
 
-// Artifact creatures: cheap army and mana (13)
+// Artifact creatures: cheap army and mana (14)
 1 Esper Sentinel
 1 Ornithopter of Paradise
 1 Command Subadjunct
@@ -9,6 +9,7 @@
 1 Etherium Sculptor
 1 Extraction Integrant
 1 Steel Overseer
+1 Cyberman Patrol
 1 Baleful Strix
 1 Foundry Inspector
 1 Iron Spider, Stark Upgrade
@@ -39,9 +40,8 @@
 1 Urza, Lord High Artificer
 1 Urza, Chief Artificer
 
-// Planeswalkers (2)
+// Planeswalkers (1)
 1 Tezzeret, Master of the Bridge
-1 Tezzeret the Seeker
 
 // Mana rocks (7)
 1 Sol Ring
