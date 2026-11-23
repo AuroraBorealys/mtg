@@ -29,7 +29,7 @@
 1 Phyrexian Metamorph
 1 Bronze Guardian
 1 Karn, Legacy Reforged
-1 Assimilation Assessor
+1 Hive Mind Coprocessor
 1 Crystalline Entity
 
 // Other creatures (3)
@@ -47,7 +47,8 @@
 1 Talisman of Hierarchy
 1 Talisman of Progress
 
-// Anthems, engines and card draw (10)
+// Anthems, engines and card draw (11)
+1 Retrofitter Foundry
 1 Tempered Steel
 1 Skullclamp
 1 Conquest Mission
@@ -69,11 +70,11 @@
 1 Dispatch
 1 Anguished Unmaking
 1 Deliver from Chaos
-1 Deadly Rollick
+1 Path to Exile
 1 Fell the Profane
 1 Cyclonic Rift
 1 Sink into Stupor
-1 Fierce Guardianship
+1 An Offer You Can't Refuse
 1 Mana Drain
 1 Counterspell
 1 Force of Negation
@@ -82,8 +83,7 @@
 // Board wipe (1)
 1 Battle of Wolf 359
 
-// Protection (5)
-1 Lightning Greaves
+// Protection (4)
 1 Teferi's Protection
 1 Emergency Regeneration
 1 Borg Incursion

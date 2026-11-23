@@ -19,6 +19,17 @@ how to work here; `CLAUDE.md` and `GEMINI.md` just point to it.
   the commander, more anthems and artifact payoffs, and enough card draw and
   interaction to keep up at a high-power table.
 
+## Deckbuilding rule: don't build around the commander
+The deck must be strong without The Borg Queen ever being cast. She costs 7 and
+will often be removed; treat her as a bonus, not the plan.
+- Don't add cards that only work while the commander is on the battlefield
+  (e.g. Fierce Guardianship, Deadly Rollick).
+- Don't add commander-protection equipment (Lightning Greaves, Swiftfoot Boots).
+- Don't add a card just because it's Borg/Star Trek flavored; it has to be good on its own.
+- When judging a card, ask "is this good if the Queen never shows up?"
+
+See `notes/deck-plan.md` for the full plan.
+
 ## Files
 - `deck/decklist.txt` – the decklist. This is the only canonical list.
 - `notes/` – reasoning, matchup notes, card evaluations, ideas to test.
