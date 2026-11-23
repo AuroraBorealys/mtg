@@ -86,7 +86,7 @@ what they replaced).
 
 **Lands (31):** kept as built — untapped fixing first (original duals, shocks, fetches,
 check lands, Verges, Raffine's Tower), three artifact lands for Mox Opal and affinity, and
-Urza's Saga, Academy Ruins, Spire of Industry and Otawara as utility.
+Urza's Saga, Academy Ruins, Spire of Industry and Otawara as utility. (Tapped lands changed in the second pass below.)
 
 ## Correction to the earlier plan
 `deck-plan.md` previously said Phyrexian Metamorph could copy One, Borg Evolved. It can,
@@ -105,7 +105,7 @@ result is smaller.
 | Unwinding Clock (1/2/3) | Galadriel's Dismissal (NEW) | Reactor mana only pays for artifacts, and the deck has almost nothing to cast on opponents' turns. Kicked Dismissal phases out your creatures in response to a wipe (not rocks or lands), covering what Cryptothrall's hexproof can't. |
 | Ultron, Artificial Malevolence (1/2/3) | Phyrexian Metamorph (NEW) | Ultron had the same legend-rule problem I cut Metamorph for, and its copied rocks are summoning sick. Metamorph is cheaper and copies anything, including tokens makers and lords. |
 | Thirst for Knowledge (1) | Thought Monitor (NEW) | Job 4: gets cheaper with every artifact, draws two, leaves a 2/2 flying artifact creature. |
-| The Cyber-Controller (1/2) | Tezzeret, Master of the Bridge (NEW) | User: the +1/+1 is nice, the token side is mediocre. Tezzeret is job 4: creature spells get affinity for artifacts (Krang gets much cheaper), and it drains each opponent for your artifact count. |
+| The Cyber-Controller (1/2) | Tezzeret, Master of the Bridge (1) | User: the +1/+1 is nice, the token side is mediocre. Tezzeret is job 4: creature spells get affinity for artifacts (Krang gets much cheaper), and it drains each opponent for your artifact count. |
 
 **Kept after all (Gemini wanted them out):**
 - **Cyberman Patrol** (job 1): afflict 3 triggers on every blocked attacker, so with a wide
@@ -120,8 +120,16 @@ result is smaller.
 Awakener (overlaps Krang), Bident of Thassa (overlaps Thopter Spy Network), Kappa Cannoneer
 (a strong lone threat, but doesn't spread abilities or make tokens), Tezzeret the Seeker.
 
-Not decided yet: Battle of Wolf 359 vs a wipe that works from behind, Salvation Engine vs
-Simulacrum Synthesizer, the tapped lands, Urza's Saga targets, and graveyard hate.
+**Lands (user's rule: no tapped lands unless there's a real reason, like being an artifact):**
+| Out | In | Why |
+|-----|----|-----|
+| Deserted Beach | Goldmire Bridge (2, 3) | Bridges enter tapped but are artifacts (Mox Opal, Thought Monitor, Tezzeret, affinity) and indestructible, so they survive artifact wipes. |
+| Shipwreck Marsh | Mistvault Bridge (2, 3) | Same. |
+| Shattered Sanctum | Razortide Bridge (2, 3) | Same. |
+| Raffine's Tower (2) | Vault of Champions (NEW) | Raffine's Tower always enters tapped. Vault of Champions enters untapped with two or more opponents. |
 
-**Not yet verified on Scryfall:** Galadriel's Dismissal, Phyrexian Metamorph, Thought Monitor
-and Tezzeret, Master of the Bridge. Check text, legality and color identity before the next game.
+Not decided yet: Battle of Wolf 359 vs a wipe that works from behind, Salvation Engine vs
+Simulacrum Synthesizer, Urza's Saga targets, and graveyard hate.
+
+**Not yet verified on Scryfall:** Galadriel's Dismissal, Phyrexian Metamorph, Thought Monitor,
+Tezzeret, Master of the Bridge and Vault of Champions. Check text, legality and color identity before the next game.

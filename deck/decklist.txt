@@ -100,13 +100,15 @@
 1 Seat of the Synod
 1 Ancient Den
 1 Vault of Whispers
+1 Goldmire Bridge
+1 Mistvault Bridge
+1 Razortide Bridge
 1 Tundra
 1 Underground Sea
 1 Scrubland
 1 Hallowed Fountain
 1 Watery Grave
 1 Godless Shrine
-1 Raffine's Tower
 1 Flooded Strand
 1 Polluted Delta
 1 Marsh Flats
@@ -116,9 +118,7 @@
 1 Floodfarm Verge
 1 Gloomlake Verge
 1 Bleachbone Verge
-1 Deserted Beach
-1 Shipwreck Marsh
-1 Shattered Sanctum
+1 Vault of Champions
 1 Morphic Pool
 1 Island
 1 Plains
