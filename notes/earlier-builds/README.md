@@ -2,6 +2,7 @@
 
 Three Borg Queen lists made before this repo existed, kept for reference.
 `deck/decklist.txt` is the real list; don't edit these.
+Reference only: being in one of these lists is not a reason to play a card.
 
 | File | Cards | Notes |
 |------|-------|-------|

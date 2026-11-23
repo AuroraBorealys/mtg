@@ -1,8 +1,7 @@
 # Deck plan: The Borg Queen, high-power artifact creature tribal
 
-Every slot was judged on the job it does in this deck. Cards from the earlier, played
-builds (borg3 > borg1 > borg2) got weight because they've been tested; EDHREC numbers and
-"it's a staple" weren't accepted as reasons.
+Every slot is judged on the job it does in this deck. EDHREC numbers, "it's a staple" and
+"it was in an earlier build" aren't accepted as reasons.
 
 ## Core principle: the deck must win without the Queen
 The Borg Queen costs 7 and will often be removed or taxed at a high-power table.
