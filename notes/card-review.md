@@ -55,8 +55,7 @@ counters on the whole team every turn), Ambulatory Reactor (1/2/3; every artifac
 creature becomes mana for artifact spells — the engine that makes Krang and Squadron castable).
 
 **Lords and team abilities:** Master of Etherium, Skorpekh Lord, Co-Option Adjutant,
-Primary Unimatrix Adjunct, Locutus of Borg, One, Borg Evolved (all 1/2/3), Cryptothrall
-(2/3; hexproof for the army against spot removal).
+Primary Unimatrix Adjunct, Locutus of Borg, One, Borg Evolved (all 1/2/3).
 
 **Big threats:** Bronze Guardian (1/2/3; I'd underrated it — double strike with power equal
 to your artifact count, and ward 2 on every artifact), Karn, Legacy Reforged (1/2/3; huge
@@ -71,8 +70,7 @@ mana toward the 7–9 drops); Mox Opal (NEW; metalcraft is on by turn 2 here).
 
 **Engines:** Tempered Steel (NEW; +2/+2 for 3 mana, the best anthem that isn't the Queen),
 Conquest Mission (NEW; a 1/1 for every nontoken artifact — with anthems each one is a real
-attacker), Thopter Spy Network, Rhystic Study, Sea Gate Restoration (1/2/3), The Immortal
-Sun (1/3), Thoughtcast (1), The One Ring (NEW; protection for a turn and a draw engine for
+attacker), Rhystic Study, Sea Gate Restoration (1/2/3), Thoughtcast (1), The One Ring (NEW; protection for a turn and a draw engine for
 a deck that dumps its hand).
 
 **Tutor:** Demonic Tutor (NEW; the one tutor that doesn't cost a card).
@@ -93,3 +91,26 @@ Urza's Saga, Academy Ruins, Spire of Industry and Otawara as utility.
 ## Correction to the earlier plan
 `deck-plan.md` previously said Phyrexian Metamorph could copy One, Borg Evolved. It can,
 but the copy is legendary, so you'd have to sacrifice one of them.
+
+## Second pass after Gemini's review (2026-11-23)
+See `notes/gemini-review.md` for the full argument. The user agreed to the nine swaps
+Claude agreed with. Two of my reasons above (Unwinding Clock, Ultron) were wrong; Krang's
+"castable turn 5–6" was overstated.
+
+| Out | In | Why |
+|-----|----|-----|
+| The Immortal Sun (1/3) | Tezzeret, Master of the Bridge (NEW) | Same 6 mana. Gives creature spells affinity for artifacts, drains each opponent for your artifact count (a non-combat win), and recurs artifacts. |
+| Cyberman Patrol (2/3) | Baleful Strix (NEW) | Afflict rarely matters next to menace and flying. Strix draws a card, flies, has deathtouch, and is an artifact creature. |
+| Unwinding Clock (1/2/3) | Tezzeret the Seeker (NEW) | Reactor mana only pays for artifacts, and the deck has almost nothing to cast on opponents' turns. Tezzeret tutors a cheap artifact or turns the board into 5/5s to finish. Slot is open to other ideas. |
+| Krang, Utrom Warlord (2/3) | Cyberdrive Awakener (NEW) | Krang is castable by turn 5 only ~30% of the time. Awakener is cheaper, gives artifact creatures flying and makes the rocks attackers. |
+| The Cyber-Controller (1/2) | Kappa Cannoneer (NEW) | At X=0 Cyber-Controller is all colored mana, so artifact mana can't pay for it. Cannoneer has improvise, ward 4, and grows and goes unblockable when artifacts enter. |
+| Thopter Spy Network (2/3) | Bident of Thassa (NEW) | Spy Network draws one card per combat; Bident draws per creature that connects, and it's an artifact. |
+| Cryptothrall (2/3) | Galadriel's Dismissal (NEW) | Hexproof doesn't stop wipes. Kicked Dismissal phases out your creatures in response to one (not rocks or lands). |
+| Ultron, Artificial Malevolence (1/2/3) | Phyrexian Metamorph (NEW) | Ultron had the same legend-rule problem I cut Metamorph for, and its copied rocks are summoning sick. Metamorph is cheaper and copies anything. |
+| Thirst for Knowledge (1) | Thought Monitor (NEW) | Usually costs {U}, draws two and leaves a 2/2 flying artifact creature. |
+
+Not decided yet: Battle of Wolf 359 vs a wipe that works from behind, Salvation Engine vs
+Simulacrum Synthesizer, the tapped lands, Urza's Saga targets, and graveyard hate.
+
+**Not yet verified on Scryfall** — the session that made these swaps had no access to it.
+Check the nine new cards' text, legality and color identity before the next game.
