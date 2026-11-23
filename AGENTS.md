@@ -27,6 +27,9 @@ will often be removed; treat her as a bonus, not the plan.
 - Don't add commander-protection equipment (Lightning Greaves, Swiftfoot Boots).
 - Don't add a card just because it's Borg/Star Trek flavored; it has to be good on its own.
 - When judging a card, ask "is this good if the Queen never shows up?"
+- EDHREC popularity, synergy scores and "it's a staple" are not reasons on their own.
+  Say what job the card does in this deck and why it beats the card it replaces.
+  Cards from the earlier, played builds in `notes/earlier-builds/` carry extra weight.
 
 See `notes/deck-plan.md` for the full plan.
 

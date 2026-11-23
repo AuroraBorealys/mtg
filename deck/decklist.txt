@@ -1,7 +1,7 @@
 // Commander
 1 The Borg Queen
 
-// Artifact creatures: cheap army and cost reducers (10)
+// Artifact creatures: cheap army and mana (12)
 1 Esper Sentinel
 1 Ornithopter of Paradise
 1 Command Subadjunct
@@ -9,68 +9,69 @@
 1 Etherium Sculptor
 1 Extraction Integrant
 1 Steel Overseer
-1 Antagonist Incorporator
+1 Cyberman Patrol
 1 Foundry Inspector
+1 Iron Spider, Stark Upgrade
+1 Ultron, Artificial Malevolence
 1 Ambulatory Reactor
 
-// Artifact creatures: lords and team-wide abilities (9)
-1 Jurati, Cordial Queen
+// Artifact creatures: lords and team-wide abilities (10)
 1 Master of Etherium
 1 Skorpekh Lord
+1 The Cyber-Controller
 1 Cryptothrall
 1 Co-Option Adjutant
 1 Primary Unimatrix Adjunct
 1 Locutus of Borg
-1 Hugh, First of Many
+1 Illustrious Wanderglyph
+1 Iron Man, Bleeding Edge
 1 One, Borg Evolved
 
-// Artifact creatures: utility and big threats (6)
-1 Walking Ballista
-1 Phyrexian Metamorph
+// Artifact creatures: big threats (4)
 1 Bronze Guardian
 1 Karn, Legacy Reforged
-1 Hive Mind Coprocessor
-1 Crystalline Entity
+1 Cybermen Squadron
+1 Krang, Utrom Warlord
 
-// Other creatures (3)
-1 Urza, Lord High Artificer
+// Other creatures (4)
+1 Sai, Master Thopterist
 1 Losheel, Clockwork Scholar
+1 Urza, Lord High Artificer
 1 Urza, Chief Artificer
 
-// Mana rocks (8)
+// Mana rocks (7)
 1 Sol Ring
 1 Mana Vault
 1 Mox Opal
-1 Chrome Mox
 1 Arcane Signet
 1 Talisman of Dominance
 1 Talisman of Hierarchy
 1 Talisman of Progress
 
-// Anthems, engines and card draw (11)
-1 Retrofitter Foundry
+// Anthems, engines and card draw (12)
 1 Tempered Steel
-1 Skullclamp
+1 Salvation Engine
 1 Conquest Mission
 1 Thopter Spy Network
 1 Rhystic Study
+1 Smothering Tithe
 1 The One Ring
 1 The Immortal Sun
-1 Class-4 Tactical Cube
+1 Unwinding Clock
 1 Thoughtcast
+1 Thirst for Knowledge
 1 Sea Gate Restoration
 
-// Tutors (3)
-1 Enlightened Tutor
+// Tutor (1)
 1 Demonic Tutor
-1 Vampiric Tutor
 
-// Removal and counters (13)
+// Removal and counters (14)
 1 Swords to Plowshares
-1 Dispatch
-1 Anguished Unmaking
-1 Deliver from Chaos
 1 Path to Exile
+1 Dispatch
+1 Bitter Triumph
+1 Anguished Unmaking
+1 Generous Gift
 1 Fell the Profane
 1 Cyclonic Rift
 1 Sink into Stupor
@@ -83,10 +84,9 @@
 // Board wipe (1)
 1 Battle of Wolf 359
 
-// Protection (4)
+// Protection (3)
 1 Teferi's Protection
 1 Emergency Regeneration
-1 Borg Incursion
 1 Clever Concealment
 
 // Lands (31)
